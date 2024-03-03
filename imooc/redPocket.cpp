@@ -85,11 +85,5 @@ int main()
     cout<<"倒霉蛋："<<userName[minNum]<<",抢到";
     printf("%.2f",a[minNum]);
     cout<<"元."<<endl;
-
-    // for (int q = 0; q < pocketNum; q++)
-    // {
-    //     printf("%.2f",a[q]);
-    //     cout<<endl;
-    // }
     return 0;
 }
